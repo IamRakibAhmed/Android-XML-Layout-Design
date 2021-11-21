@@ -67,4 +67,21 @@
     <string name="your_account">your account</string>
     <string name="login">Login</string>
     <string name="or_sign_up_with_social_account">Or sign up with social account</string>
+    <string name="hi_rakib">Hi, Rakib</string>
+    <string name="tue_13_oct">Tue  13  oct</string>
+    <string name="_84">84</string>
+    <string name="health_score">Health Score</string>
+    <string name="based_on_your_overall_health_ntest_your_score_is_84_and_nconsider_good">Based on your overall health\ntest, your score is 84 and \nconsider good..</string>
+    <string name="read_more">Read more</string>
+    <string name="metrics">Metrics</string>
+    <string name="calories">Calories</string>
+    <string name="_500_cal">500 cal</string>
+    <string name="last_update_3m">last update 3m</string>
+    <string name="weight">Weight</string>
+    <string name="_58_kg">58 kg</string>
+    <string name="last_update_3d">last update 3d</string>
+    <string name="water">Water</string>
+    <string name="_750_ml">750 ml</string>
+    <string name="steps">Steps</string>
+    <string name="_9_890">9,890</string>
 </resources>
