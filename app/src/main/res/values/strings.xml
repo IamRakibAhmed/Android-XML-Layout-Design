@@ -63,4 +63,8 @@
     <string name="_57_60">$57.60</string>
     <string name="send_order">Send Order</string>
     <string name="back">back</string>
+    <string name="log_into">Log into</string>
+    <string name="your_account">your account</string>
+    <string name="login">Login</string>
+    <string name="or_sign_up_with_social_account">Or sign up with social account</string>
 </resources>
